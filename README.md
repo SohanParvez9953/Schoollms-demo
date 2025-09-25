@@ -1,2 +1,3 @@
 # Schoollms-demo
-This is my fir git Repository
+This is my first git Repository
+Author - Sohan
